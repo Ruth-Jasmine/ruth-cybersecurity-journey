@@ -17,4 +17,4 @@ Documenting my transition from 14 years in computer science education into cyber
 
 ## Connect
 
-[LinkedIn URL — to be added]
+- [LinkedIn — Christina Ruth James](https://www.linkedin.com/in/christina-ruth-james/)
