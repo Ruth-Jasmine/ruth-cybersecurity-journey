@@ -1,4 +1,4 @@
-# Ruth's Cybersecurity Journey
+# Christina Ruth Jasmine's Cybersecurity Journey
 
 Documenting my transition from 14 years in computer science education into cybersecurity consulting, with a developing specialization in AI Security.
 
@@ -17,4 +17,4 @@ Documenting my transition from 14 years in computer science education into cyber
 
 ## Connect
 
-- [LinkedIn — Christina Ruth James](https://www.linkedin.com/in/christina-ruth-james/)
+- [LinkedIn — Christina Ruth Jasmine](https://www.linkedin.com/in/christina-ruth-james/)
